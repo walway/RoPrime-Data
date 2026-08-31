@@ -2,8 +2,8 @@
   "version": "1.6.0",
   "config": {
     "GitHubLink": "https://github.com/walway/RoPrime/releases",
-    "ChromeLink": "https://chromewebstore.google.com/detail/bonjourr-%C2%B7-minimalist-new/dlnejlppicbjfcfcedcflplfjajinajd",
-    "FirefoxLink": "asddddddddddddddddddddddd",
+    "ChromeLink": "",
+    "FirefoxLink": "",
     "EdgeLink": "",
     "OperaLink": "",
     "enabled": "true"
