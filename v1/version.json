@@ -2,8 +2,8 @@
   "version": "1.5.0",
   "config": {
     "GitHubLink": "https://github.com/walway/RoPrime/releases",
-    "ChromeLink": "",
-    "FirefoxLink": "",
+    "ChromeLink": "https://chromewebstore.google.com/detail/roprime-new-era-of-roblox/jecagfkcebencfmfdjgcimhedlodfmhk",
+    "FirefoxLink": "https://addons.mozilla.org/en-US/firefox/addon/roprime",
     "EdgeLink": "",
     "OperaLink": "",
     "enabled": "true"
